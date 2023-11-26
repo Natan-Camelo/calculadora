@@ -7,7 +7,7 @@ body {
     justify-content: center;
     height: 100vh;
 
-    background-image: url(/src/img/fundo.jpg);
+    background-image: url(../img/fundo.jpg);
     background-repeat: no-repeat;
     background-size: 100rem;
 }
